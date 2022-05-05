@@ -15,7 +15,7 @@
 <!--- specific language governing permissions and limitations -->
 <!--- under the License. -->
 
-<img src=https://raw.githubusercontent.com/apache/tvm-site/main/images/logo/tvm-logo-small.png width=128/> Open Deep Learning Compiler Stack
+<img src=https://raw.githubusercontent.com/apache/tvm-site/main/images/logo/tvm-logo-small.png width=128/> Open Deep Learning Compiler Stack TEST
 ==============================================
 [Documentation](https://tvm.apache.org/docs) |
 [Contributors](CONTRIBUTORS.md) |
